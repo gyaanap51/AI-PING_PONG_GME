@@ -1,0 +1,33 @@
+body{
+    background: url("background1.jpg");
+    text-align: center;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+   display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+.big_image
+{
+    width: 100%;
+}
+#start ,#status
+{
+    font-size: 22px;
+}
+canvas
+{
+border: 2px solid white;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 10px 12px 12px cyan ;
+}
